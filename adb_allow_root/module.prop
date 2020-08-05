@@ -1,0 +1,6 @@
+id=adb_allow_root
+name=ADB Allow Root
+version=v1
+versionCode=1
+author=SBoys3
+description=Allow adb root to be run

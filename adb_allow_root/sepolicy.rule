@@ -1,0 +1,6 @@
+allow adbd * * *
+allow su * * *
+permissive su
+allow adbd adbd process setcurrent
+allow adbd su process dyntransition
+
